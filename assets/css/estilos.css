@@ -1,0 +1,50 @@
+/* -- HEADER --*/
+.navbar {
+      margin-bottom: 0;
+  }
+
+  .jumbotron-fm {
+  	background:#3FC8C8;
+  	color: #fff;
+  	padding: 20px 0;
+  }
+  .jumbotron .titulo-blog {
+  	font-size:80px;
+  }
+
+  .post-title {
+  	text-align: center;
+  	color: #000000;
+  }
+
+  .post-imagen{
+  	text-align:  center; 
+  }
+.breadcrumb{
+	background: #ACB8B8;
+}
+
+.btn-btn-mio{
+	color:
+}
+
+.col-md-4{
+	color: #000000;
+	background: #3FC8C8;
+}
+.foot{
+	background: #ACB8B8;
+	color:  #fff;
+	font-size:80px;
+}
+/* Estamos trabaando con la etiqueta del cuerpo, y por lo tanto con la página COMPLETA */
+body
+{
+    background-color: #fff ; 
+    
+}
+a {
+	color:#fff ;
+	text-decoration: none;
+
+ }
